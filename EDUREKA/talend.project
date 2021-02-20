@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_EhRdAXOjEeuGc8vs4Wb5hw" label="edureka" description="" language="java" technicalLabel="EDUREKA" creationDate="2021-01-24T04:01:58.000+0530" author="_EhRdAnOjEeuGc8vs4Wb5hw" productVersion="Talend Data Fabric-7.2.1.20190711_1240" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/karthik9u/edureka.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI">
+    <migrationTask xmi:id="_E09OAHOjEeuGc8vs4Wb5hw" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_EhRdAnOjEeuGc8vs4Wb5hw" login="admin@company.com" firstName="admin" lastName="admin" type="DI" additionnalData="{}"/>
+</xmi:XMI>
